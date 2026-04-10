@@ -2,4 +2,4 @@ Class account:
 username: astr302S26@10.130.132.31
 pwd: 4-ASTR302-rules!!
 
-scp -p "astr302S26@10.130.132.31:/home/astr302S26/pulsating_star/*" .
+Command: scp -p "astr302S26@10.130.132.31:/home/astr302S26/pulsating_star/*" .
