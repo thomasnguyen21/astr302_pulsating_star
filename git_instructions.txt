@@ -1,0 +1,12 @@
+A) Clone the directory: git clone https://github.com/thomasnguyen21/astr302_pulsating_star.git
+B) Upload a file
+- "Move file(s) to the cloned repo (if necessary)"
+- "Navigate to the local clone repo": cd
+- "Stage the file"
+	+ "Specific files": git add <file_name>
+	+ "All files in current directory": git add .
+	+ "All files in entire repo": git add -A
+	+ "Specific files": git add *.jpg
+- "Verify status (optional)": git status
+- "Commit the changes": git commit -m "<message>"
+- "Push to remote": git push origin <branch_name>
