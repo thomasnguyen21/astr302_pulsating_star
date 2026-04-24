@@ -1,0 +1,6 @@
+*.fits
+*.zip
+*.dat
+*.log
+.ipynb_checkpoints/
+reduced_sci/
